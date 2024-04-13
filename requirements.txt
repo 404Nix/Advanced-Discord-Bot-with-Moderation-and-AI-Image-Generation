@@ -1,0 +1,7 @@
+aiohttp==3.8.4
+console==0.9907
+giphy_client==1.0.0
+nextcord==2.4.2
+python-dotenv==1.0.0
+replicate==0.8.3
+Requests==2.31.0
