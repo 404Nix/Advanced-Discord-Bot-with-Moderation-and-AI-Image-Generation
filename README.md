@@ -61,10 +61,7 @@ AI_API_KEY=your_ai_api_key_here</code>
 
 <h3>AI Image Generation Commands:</h3>
 <ul>
-    <li><code>!generate [description]</code>: Generate an image based on the provided description.</li>
-    <li><code>!meme [top text] | [bottom text]</code>: Create a custom meme.</li>
-    <li><code>!filter [filter name] @image</code>: Apply a filter to an image.</li>
-    <li><code>!art [description]</code>: Generate artwork from a text description.</li>
+    <li><code>!imagine [description]</code>: Generate an image based on the provided description.</li>
 </ul>
 
 <h2>Contributing</h2>
@@ -88,8 +85,6 @@ AI_API_KEY=your_ai_api_key_here</code>
 
 <hr>
 
-<p>Thank you for checking out the Advanced Discord Bot project! We hope it enhances your Discord server and brings joy to your community. Happy coding!</p>
+<p>Thank you for checking out the Advanced Discord Bot project!, Happy coding!</p>
 
 <hr>
-
-<p>Live Demo: <a href="https://github.com/404nix/Advanced-Discord-Bot-with-Moderation-and-AI-Image-Generation">Advanced Discord Bot</a></p>
