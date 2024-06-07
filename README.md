@@ -75,13 +75,9 @@ AI_API_KEY=your_ai_api_key_here</code>
     <li>Open a pull request to the <code>main</code> branch.</li>
 </ol>
 
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 <h2>Contact</h2>
 
-<p>For any questions or suggestions, feel free to open an issue or contact the repository owner at <a href="mailto:your_email@example.com">your_email@example.com</a>.</p>
+<p>For any questions or suggestions, feel free to open an issue or contact the repository owner at <a href="mailto:nikhilkanojia693@gmail.com">nikhilkanojia693@gmail.com</a>.</p>
 
 <hr>
 
