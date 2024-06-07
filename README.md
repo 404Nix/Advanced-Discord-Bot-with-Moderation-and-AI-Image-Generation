@@ -16,8 +16,6 @@
 <h3>AI Image Generation</h3>
 <ul>
     <li><strong>Custom Image Commands:</strong> Generate images based on user input using advanced AI models.</li>
-    <li><strong>Meme Generation:</strong> Create custom memes and image macros on the fly.</li>
-    <li><strong>Image Filters:</strong> Apply various filters and effects to user-provided images.</li>
     <li><strong>Art Generation:</strong> Use AI to generate unique artwork from text descriptions.</li>
 </ul>
 
