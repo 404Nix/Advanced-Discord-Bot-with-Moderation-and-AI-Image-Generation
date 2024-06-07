@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Discord Bot with Moderation and AI Image Generation</title>
-</head>
-<body>
-
 <h1>Advanced Discord Bot with Moderation and AI Image Generation</h1>
 
 <p>Welcome to the Advanced Discord Bot repository! This bot combines powerful moderation capabilities with cutting-edge AI-driven image generation to enhance your Discord server experience.</p>
@@ -103,7 +94,4 @@ AI_API_KEY=your_ai_api_key_here</code>
 
 <hr>
 
-<p>Live Demo: <a href="https://github.com/yourusername/Advanced-Discord-Bot-with-Moderation-and-AI-Image-Generation">Advanced Discord Bot</a></p>
-
-</body>
-</html>
+<p>Live Demo: <a href="https://github.com/404nix/Advanced-Discord-Bot-with-Moderation-and-AI-Image-Generation">Advanced Discord Bot</a></p>
