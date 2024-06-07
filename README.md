@@ -42,7 +42,7 @@ AI_API_KEY=your_ai_api_key_here</code>
     </li>
     <li><strong>Run the Bot:</strong>
         <pre>
-<code>python bot.py</code>
+<code>python project.py</code>
         </pre>
     </li>
 </ol>
